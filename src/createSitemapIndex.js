@@ -1,4 +1,4 @@
-const extendFilename = require('./helpers/extendFilename');
+const extendFilename = require('./helpers/extendFilename.js');
 
 module.exports = (url, filename, sitemapCount) => {
   let sitemapIndex =

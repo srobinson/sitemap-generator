@@ -1,4 +1,4 @@
-const extendFilename = require('../extendFilename');
+const extendFilename = require('../extendFilename.js');
 
 describe('#extendFilename', () => {
   test('should be a function', () => {
